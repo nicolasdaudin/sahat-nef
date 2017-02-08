@@ -1,2 +1,3 @@
 # sahat-nef
-Tutorial on React, Flux, Node, ES6 available at http://sahatyalkabov.com/create-a-character-voting-app-using-react-nodejs-mongodb-and-socketio/
+Following a tutorial on React, Flux, NodeJS, MongoDB, Socket.io, ES6
+Tutorial available at http://sahatyalkabov.com/create-a-character-voting-app-using-react-nodejs-mongodb-and-socketio/
