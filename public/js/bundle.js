@@ -2333,10 +2333,6 @@ var _Home = require('./components/Home');
 
 var _Home2 = _interopRequireDefault(_Home);
 
-var _AddCharacter = require('./components/AddCharacter');
-
-var _AddCharacter2 = _interopRequireDefault(_AddCharacter);
-
 var _Stats = require('./components/Stats');
 
 var _Stats2 = _interopRequireDefault(_Stats);
@@ -2344,6 +2340,10 @@ var _Stats2 = _interopRequireDefault(_Stats);
 var _Character = require('./components/Character');
 
 var _Character2 = _interopRequireDefault(_Character);
+
+var _AddCharacter = require('./components/AddCharacter');
+
+var _AddCharacter2 = _interopRequireDefault(_AddCharacter);
 
 var _CharacterList = require('./components/CharacterList');
 

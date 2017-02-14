@@ -2,9 +2,9 @@ import React from 'react';
 import {Route} from 'react-router';
 import App from './components/App';
 import Home from './components/Home';
-import AddCharacter from './components/AddCharacter';
 import Stats from './components/Stats';
 import Character from './components/Character';
+import AddCharacter from './components/AddCharacter';
 import CharacterList from './components/CharacterList';
 
 export default (
