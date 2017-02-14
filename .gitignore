@@ -1,3 +1,18 @@
 node_modules/
 bower_components/
 *.sublime*
+.DS_Store
+
+# Files compiled by Gulp.
+public/css/*
+public/js/*
+
+
+# Logs
+logs
+*.log
+
+# Runtime data
+pids
+*.pid
+*.seed
